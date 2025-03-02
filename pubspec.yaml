@@ -53,6 +53,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/para1/
+    - assets/para2/
     - assets/paraname.json
     - assets/image.json
 
